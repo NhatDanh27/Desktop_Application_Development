@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\invoicesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\invoicesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\invoicesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\invoicesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\studentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\studentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\studentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\studentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\areasdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\areasdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\frm_adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frm_adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\staffsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\staffsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frm_dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\nhatg\\downloads\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\frm_adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frm_adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\windowsformsapp1\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoicesData.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\InvoicesData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InvoicesData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\InvoicesData.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\InvoicesData.cs*",
+              "ViewState": "AgIAAGABAAAAAAAAAAAmwGwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:14:43.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoicesData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\InvoicesData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InvoicesData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\InvoicesData.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\InvoicesData.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:42:11.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\UserData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\UserData.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UserData.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAswBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_adminMain.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frm_adminMain.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frm_adminMain.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frm_adminMain.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frm_adminMain.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:02:23.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\StudentsData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StudentsData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\StudentsData.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\StudentsData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:20:11.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsData.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\StudentsData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StudentsData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\StudentsData.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\StudentsData.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:56.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AreasData.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\AreasData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AreasData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\AreasData.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AreasData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:18.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:29:22.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:28.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_dangky.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frm_dangky.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frm_dangky.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frm_dangky.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frm_dangky.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:44.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffsData.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\StaffsData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StaffsData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\StaffsData.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\StaffsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:11:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_adminMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frm_adminMain.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frm_adminMain.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\frm_adminMain.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frm_adminMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:01:30.411Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomsData.cs",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\RoomsData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RoomsData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\RoomsData.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\RoomsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T04:59:31.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoomsData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\RoomsData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RoomsData.cs",
+              "ToolTip": "C:\\Users\\nhatg\\Downloads\\WindowsFormsApp1\\WindowsFormsApp1\\RoomsData.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\RoomsData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:19:13.591Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

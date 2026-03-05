@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AreasData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AreasData.Designer.cs">
+      <DependentUpon>AreasData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dashBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="dashBoard.Designer.cs">
+      <DependentUpon>dashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="excel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="excel.Designer.cs">
+      <DependentUpon>excel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_adminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_adminMain.Designer.cs">
+      <DependentUpon>frm_adminMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BaoCaoInvoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BaoCaoInvoices.Designer.cs">
+      <DependentUpon>frm_BaoCaoInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BaoCaoRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BaoCaoRoom.Designer.cs">
+      <DependentUpon>frm_BaoCaoRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BaoCaoStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BaoCaoStaff.Designer.cs">
+      <DependentUpon>frm_BaoCaoStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_BaoCaoStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_BaoCaoStudent.Designer.cs">
+      <DependentUpon>frm_BaoCaoStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Contract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Contract.Designer.cs">
+      <DependentUpon>frm_Contract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_dangky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dangky.Designer.cs">
+      <DependentUpon>frm_dangky.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InvoicesData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InvoicesData.Designer.cs">
+      <DependentUpon>InvoicesData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoomsData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RoomsData.Designer.cs">
+      <DependentUpon>RoomsData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffsData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StaffsData.Designer.cs">
+      <DependentUpon>StaffsData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentsData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentsData.Designer.cs">
+      <DependentUpon>StudentsData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ThongKe.Designer.cs">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserData.Designer.cs">
+      <DependentUpon>UserData.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AreasData.resx">
+      <DependentUpon>AreasData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dashBoard.resx">
+      <DependentUpon>dashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="excel.resx">
+      <DependentUpon>excel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_adminMain.resx">
+      <DependentUpon>frm_adminMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BaoCaoInvoices.resx">
+      <DependentUpon>frm_BaoCaoInvoices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BaoCaoRoom.resx">
+      <DependentUpon>frm_BaoCaoRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BaoCaoStaff.resx">
+      <DependentUpon>frm_BaoCaoStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_BaoCaoStudent.resx">
+      <DependentUpon>frm_BaoCaoStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Contract.resx">
+      <DependentUpon>frm_Contract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_dangky.resx">
+      <DependentUpon>frm_dangky.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InvoicesData.resx">
+      <DependentUpon>InvoicesData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RoomsData.resx">
+      <DependentUpon>RoomsData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffsData.resx">
+      <DependentUpon>StaffsData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentsData.resx">
+      <DependentUpon>StudentsData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongKe.resx">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserData.resx">
+      <DependentUpon>UserData.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="assets\2023_11_3_638346247259306681_dai-hoc-kinh-te-tai-chinh-hoc-phi-bao-nhieu-mot-nam-cach-thuc-dong-hoc-phi-1.jpg" />
+    <Content Include="assets\hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg" />
+    <Content Include="assets\icons8-admin-60px.png" />
+    <Content Include="assets\icons8-analytics-60.png" />
+    <Content Include="assets\icons8-area-70.png" />
+    <Content Include="assets\icons8-area-chart-60.png" />
+    <Content Include="assets\icons8-client-management-60.png" />
+    <Content Include="assets\icons8-client-management-70.png" />
+    <Content Include="assets\icons8-close-window-30.png" />
+    <Content Include="assets\icons8-dormitory-100.png" />
+    <Content Include="assets\icons8-excel-60.png" />
+    <Content Include="assets\icons8-exit-60.png" />
+    <Content Include="assets\icons8-invoice-60.png" />
+    <Content Include="assets\icons8-invoice-70.png" />
+    <Content Include="assets\icons8-invoices-100.png" />
+    <Content Include="assets\icons8-log-out-70.png" />
+    <Content Include="assets\icons8-microsoft-excel-70.png" />
+    <Content Include="assets\icons8-room-100.png" />
+    <Content Include="assets\icons8-room-60.png" />
+    <Content Include="assets\icons8-staff-100.png" />
+    <Content Include="assets\icons8-staff-60.png" />
+    <Content Include="assets\icons8-staff-70.png" />
+    <Content Include="assets\icons8-student-100.png" />
+    <Content Include="assets\icons8-student-60.png" />
+    <Content Include="assets\icons8-student-center-70.png" />
+    <Content Include="assets\icons8-user-100.png" />
+    <Content Include="assets\icons8-user2-100.png" />
+    <Content Include="assets\images.jpg" />
+    <Content Include="assets\truong-dh-kinh-te-tai-chinh-uef-hoc-phi.jpg" />
+    <Content Include="assets\z6188485254056_0bbb18896bcc6b8d2a7d3e88a276e950.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

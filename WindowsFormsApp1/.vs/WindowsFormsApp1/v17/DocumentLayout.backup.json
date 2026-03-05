@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\windowsformsapp1\\windowsformsapp1\\frm_baocaoinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frm_baocaoinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\frm_contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frm_contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\frm_contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frm_contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\invoicesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\invoicesdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\staffsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\staffsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\studentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\studentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\WindowsFormsApp1\\windowsformsapp1\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBD9967C-FEE0-4BE6-BACB-5FE58C5EC03B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_BaoCaoInvoices.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\frm_BaoCaoInvoices.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frm_BaoCaoInvoices.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\frm_BaoCaoInvoices.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frm_BaoCaoInvoices.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:03:58.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "excel.cs",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\excel.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\excel.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\excel.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\excel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:57:26.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "excel.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\excel.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\excel.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\excel.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\excel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:55:19.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\dashBoard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\dashBoard.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\dashBoard.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\dashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:53:30.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_Contract.cs",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\frm_Contract.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frm_Contract.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\frm_Contract.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\frm_Contract.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAgwG0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:52:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Contract.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\frm_Contract.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\frm_Contract.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\frm_Contract.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\frm_Contract.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:51:58.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoicesData.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\InvoicesData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\InvoicesData.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\InvoicesData.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\InvoicesData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:51:00.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomsData.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\RoomsData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RoomsData.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\RoomsData.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\RoomsData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:48:29.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffsData.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\StaffsData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StaffsData.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\StaffsData.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\StaffsData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:47:31.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsData.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\StudentsData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StudentsData.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\StudentsData.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\StudentsData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:46:37.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\ThongKe.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ThongKe.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\ThongKe.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:45:39.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserData.cs [Design]",
+              "DocumentMoniker": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\UserData.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserData.cs",
+              "ToolTip": "D:\\WindowsFormsApp1\\WindowsFormsApp1\\UserData.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\UserData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:44:47.863Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
